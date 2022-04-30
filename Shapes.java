@@ -39,6 +39,10 @@ public class Shapes {
 		circle_perimeter = 2 * 3.14 * radius;
 		return circle_perimeter;
 	}
+    public double findDemo(double radius) {
+		circle_perimeter = 2 * 3.14 * radius;
+		return circle_perimeter;
+
 	
 	public void displayShapes() {
 		System.out.println("Area of Rectangle = "+area);
